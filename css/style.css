@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: beige;
+    background-image: url("http://www.mobileswall.com/wp-content/uploads/2013/11/640-Programming-Code-l.jpg");
+}
+
+.main {
+    background-color: #10073f85;
+    opacity: .95;
+    width: 80%;
+}
+
+#form-group {
+    padding-top: 10px;
+    text-align: center;
+}
+
