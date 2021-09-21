@@ -4,7 +4,11 @@
 
 body {
     color: beige;
-    background-image: url("../media/backgroundCode.jpg");
+    background-image: url("https://olosnoks.github.io/freeCodeCampSurveyForm/media/backgroundCode.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
 }
 
 .main {
