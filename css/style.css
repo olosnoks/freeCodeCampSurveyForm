@@ -4,7 +4,7 @@
 
 body {
     color: beige;
-    background-image: url("/media/backgroundCode.jpg");
+    background-image: url("../media/backgroundCode.jpg");
 }
 
 .main {
